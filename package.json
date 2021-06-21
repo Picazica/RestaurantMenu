@@ -5,7 +5,7 @@
   "main": "index.js",
   "homepage": "https://Picazica.github.io/RestaurantMenu",
   "scripts": {
-    "deploy": "gh-pages -d teste"
+    "deploy": "gh-pages -d src"
   },
   "author": "",
   "license": "ISC",
