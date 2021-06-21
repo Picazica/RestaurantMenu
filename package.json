@@ -1,0 +1,15 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://Picazica.github.io/RestaurantMenu",
+  "scripts": {
+    "deploy": "gh-pages -d TESTE"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^3.2.2"
+  }
+}
